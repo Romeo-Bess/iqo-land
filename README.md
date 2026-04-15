@@ -1,7 +1,3 @@
-My bad—I got too technical there. You’re right, let’s keep it consistent with the "The Vision" and "Technical Overview" style we used for Vuxzo. This makes your GitHub profile look professional and organized if a buyer starts snooping around your code.
-
-Here is the clean, professional README content for the iqo-land repository:
-
 IQO.co.za | Premium 3-Letter Asset
 This repository contains the high-conversion, tech-minimalist landing page for the premium 3-letter South African domain IQO.co.za.
 
